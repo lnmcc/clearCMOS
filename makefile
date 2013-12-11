@@ -1,5 +1,5 @@
 cc=gcc
 CFLAGS=-Wall -W -O2
 
-cleancmos: cleancmos.c
-	$(CC) $(CFLAGS) -o cleancmos cleancmos.c
+clearCMOS: clearCMOS.c
+	$(CC) $(CFLAGS) -o clearCMOS clearCMOS.c
